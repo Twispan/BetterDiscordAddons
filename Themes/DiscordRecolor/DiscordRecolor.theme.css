@@ -19,13 +19,13 @@
 /* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
 
 :root {
-	--font:						"Courier New", "Courier New", "Helvetica Neue", Helvetica, Arial, sans-serif;		/*	General Font			*/
+	--font:						"Courier New", "Times New Roman", "Helvetica Neue", Helvetica, Arial, sans-serif;		/*	General Font			*/
 	--settingsicons:			1;						/*	Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no			*/
 	
 	--accentcolor: 				32,32,32;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
 	--accentcolor2: 			32,32,32;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
 	--linkcolor: 				232,226,176;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
-	--mentioncolor: 			250,166,26;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
+	--mentioncolor: 			25,33,66;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--successcolor: 			59,165,92;				/*	Success Color		 - 	default:	59,165,92		 - 	hex:	#3ba55c		*/
 	--warningcolor: 			250,166,26;				/*	Warning Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--dangercolor:  			237,66,69;				/*	Danger Color		 - 	default:	237,66,69		 - 	hex:	#ed4245		*/
