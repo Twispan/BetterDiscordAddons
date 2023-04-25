@@ -22,8 +22,8 @@
 	--font:						"Courier New", "Times New Roman", "Helvetica Neue", Helvetica, Arial, sans-serif;		/*	General Font			*/
 	--settingsicons:			1;						/*	Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no			*/
 	
-	--accentcolor: 				54,53,53;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
-	--accentcolor2: 			54,53,53;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
+	--accentcolor: 				43,42,44;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
+	--accentcolor2: 			43,42,44;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
 	--linkcolor: 				232,226,176;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
 	--mentioncolor: 			255,101,0;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--successcolor: 			59,165,92;				/*	Success Color		 - 	default:	59,165,92		 - 	hex:	#3ba55c		*/
@@ -37,10 +37,10 @@
 	--textdarker: 				115,115,115;			/*	Text Color 5		 - 	default:	114,118,125		 - 	hex:	#72767d		*/
 	--textdarkest: 				80,80,80;				/*	Text Color 6		 - 	default:	79,84,92		 - 	hex:	#4f545c		*/
 	
-	--backgroundaccent: 		54,53,53;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
+	--backgroundaccent: 		43,42,44;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
 	--backgroundprimary: 		32,32,32;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
-	--backgroundsecondary: 		54,53,53;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
-	--backgroundsecondaryalt: 	54,53,53;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
-	--backgroundtertiary: 		54,53,53;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
+	--backgroundsecondary: 		43,42,44;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
+	--backgroundsecondaryalt: 	43,42,44;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
+	--backgroundtertiary: 		43,42,44;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
 	--backgroundfloating: 		0,0,0;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
 }
