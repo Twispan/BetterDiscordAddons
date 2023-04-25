@@ -41,6 +41,6 @@
 	--backgroundprimary: 		32,32,32;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
 	--backgroundsecondary: 		43,42,44;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
 	--backgroundsecondaryalt: 	43,42,44;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
-	--backgroundtertiary: 		247,247,234;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
+	--backgroundtertiary: 		32,32,32;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
 	--backgroundfloating: 		0,0,0;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
 }
